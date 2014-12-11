@@ -10,7 +10,7 @@
 - XAMPP / WAMPP Apache 2.x
 
 ## Instalasi Framework
-- Download / clone Bootangular disini [link](link.com)
+- Download / clone Bootangular disini [Download Bootangular](https://github.com/zulfinjuliant/bootangular/archive/master.zip)
 - Rename folder dengan nama "bootangular"
 - Taruh di htdocs local web server (pastikan sudah terinstall XAMPP/WAMP)
 
@@ -18,4 +18,4 @@
 - Jalankan via browser, ketik http://127.0.0.1/bootangular atau http://localhost/bootangular
 
 ## Lisensi
-- [GNU GPL V2](https://google.com)
+- [GNU GPL V2](https://github.com/zulfinjuliant/bootangular/blob/master/LICENSE)

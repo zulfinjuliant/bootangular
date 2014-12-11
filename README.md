@@ -5,6 +5,7 @@
 - Angular Js 1.3.3
 - Bootstrap Custom Theme 3.3.0
 - Font Awesome 4.2.0
+- Demo coba disini [Demo Bootangular](http://zulfin.web.id/bootangular)
 
 ## Requirement
 - XAMPP / WAMPP Apache 2.x
